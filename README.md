@@ -2,9 +2,11 @@
 - 👀 I’m interested in programming
 
 <br>
+<!---
 Contact: <br>
 e-mail: adam.wonia@gmail.com <br>
 Linkedin: www.linkedin.com/in/adam-wonia <br>
+--->
 
 <!---
 AdamWonia/AdamWonia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

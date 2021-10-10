@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamWonia
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
 
 <br>
 Contact: <br>

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">I'm interested in programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamwonia" alt="adamwonia" /></a> </p>
-
 - 🌱 I’m currently learning **Python and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamWonia?tab=repositories](https://github.com/AdamWonia?tab=repositories)

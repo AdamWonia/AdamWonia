@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">I'm interested in programming</h3>
 
+- 🔭 I’m currently working on **my own projects**
+
 - 🌱 I’m currently learning **Python and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamWonia?tab=repositories](https://github.com/AdamWonia?tab=repositories)
+
+- 📫 How to reach me **adam.wonia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

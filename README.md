@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own projects**
 
-- 🌱 I’m currently learning **Python and C#**
+- 🌱 I’m currently learning **Python, C# and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamWonia?tab=repositories](https://github.com/AdamWonia?tab=repositories)
 

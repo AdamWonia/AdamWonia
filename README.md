@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamWonia?tab=repositories](https://github.com/AdamWonia?tab=repositories)
 
-- 📫 How to reach me **adam.wonia@gmail.com**
+- 📫 How to reach me **adamww96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
